@@ -12,7 +12,7 @@ This open-source project focuses on sentiment analysis in tweets using Natural L
 ## Getting Started
 
 1. Install the required dependencies mentioned in the `requirements.txt` file.
-2. Run the Jupyter Notebook `Sentiment_Analysis.ipynb` to see the step-by-step process.
+2. Run the Jupyter Notebook `Sentiment Analysis.py` to see the step-by-step process.
 3. Follow the code comments and modify as needed for your specific use case.
 
 ## Dataset
